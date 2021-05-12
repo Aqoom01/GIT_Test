@@ -1,4 +1,3 @@
-//Make Conflict
 #include <stdio.h>
 #include "myheader.h"
 
